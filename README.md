@@ -1,11 +1,28 @@
-# Clap_to_Action
-A simple and interactive Python desktop application that listens for a clap sound and automatically opens YouTube in Brave Browser. Built using audio processing and a Tkinter-based UI.
+# 🎤 Clap to Open App
 
-🚀 Features
-👏 Detects clap using microphone<br>🌐 Opens YouTube instantly in Brave browser<br>🎚️ Adjustable sensitivity (to control detection accuracy)
-<br>🎬 Simple and clean UI using Tkinter<br>⚡ Real-time status updates (Listening / Detected / Stopped)
+A simple Python desktop app that detects a clap 👏 and opens a selected file or application.<br><br>
+
+## 🚀 Features<br>
+- Clap detection using microphone<br>
+- Simple UI interface<br>
+- Open any file/app<br>
+- Adjustable sensitivity
 <br><br>
-🧠 How It Works
+## 🖥️ Download<br>
+👉 Go to Releases section and download `clap_app.exe`<br><br>
+
+## ▶️ How to Use<br>
+1. Run the `.exe`<br>
+2. Select file/app<br>
+3. Click "Start Listening"<br>
+4. Clap 👏 to trigger action<br>
+<br><br>
+## ⚠️ Note<br>
+- Allow microphone access<br>
+- Windows may show "Unknown Publisher" → click Run anyway<br>
 <br>
-The application continuously listens to microphone input and calculates the sound intensity.<br>
-When a sudden spike (clap) exceeds a defined threshold, it triggers an action to open YouTube.
+## 🛠️ Tech Stack<br>
+- Python<br>
+- Tkinter<br>
+- SoundDevice<br>
+- NumPy
