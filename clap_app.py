@@ -8,9 +8,9 @@ import time
 
 # Global variables
 listening = False
-threshold = 30.0  # New default on a 0-100 scale
-last_clap_time = 0
-cooldown = 2.0 
+threshold = 68.0  # New default on a 0-100 scale
+last_clap_time = 15
+cooldown = 10.0 
 
 # Modern Color Palette
 BG_COLOR = "#0A0F1E"      # Darker Navy
