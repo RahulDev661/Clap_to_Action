@@ -8,11 +8,10 @@ A simple Python desktop app that detects a clap 👏 and opens a selected file o
 - Open any file/app<br>
 - Adjustable sensitivity
 <br>
-![App UI](ui.png)
-![App UI](ui.png)
-![App UI](ui.png)
-![App UI](ui.png)
-![App UI](ui.png)
+![App UI](https://github.com/RahulDev661/Clap_to_Action/blob/main/Screenshot%20(203).png?raw=true)
+![App UI](https://github.com/RahulDev661/Clap_to_Action/blob/main/Screenshot%20(204).png?raw=true)
+![App UI](https://github.com/RahulDev661/Clap_to_Action/blob/main/Screenshot%20(206).png?raw=true)
+![App UI](https://github.com/RahulDev661/Clap_to_Action/blob/main/Screenshot%20(208).png?raw=true)
 
 ## 🖥️ Download<br>
 👉 Go to Releases section and download `clap_app.exe`<br><br>
